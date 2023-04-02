@@ -1,0 +1,226 @@
+#img1 {
+	border-style: solid;
+	border-color: black;
+	margin-left: 32%;
+	height: 200px;
+}
+#img2 {
+	border-style: solid;
+	border-color: black;
+	background-color: blue;
+	margin-left: 3%;
+	height: 250px;
+	position: relative;
+	top: -100px;
+}
+#img3 {
+	border-style: solid;
+	border-color: black;
+	background-color: white;
+	margin-left: 3%;
+	height: 220px;
+	position: relative;
+	top: -100px;
+}
+#img4 {
+	border-style: solid;
+	border-color: black;
+	background-color: blue;
+	margin-left: 2%;
+	height: 200px;
+	position: relative;
+	top: -150px;
+}
+#img5 {
+	border-style: solid;
+	border-color: black;
+	background-color: blue;
+	margin-left: 2%;
+	height: 200px;
+	position: relative;
+	top: -230px;
+	left: 30px;
+}
+body {
+	margin: 0;
+	background-image: url('../pic/bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	overflow-x: hidden;
+}
+nav {
+	height: 100px;
+	width: 100%;
+	background-color: #0070FF;
+	position: fixed;
+	top: -10px;
+	z-index: 1;
+}
+#insnav {
+	position: relative;
+	top: -30px;
+}
+nav h1 {
+	color: white;
+	font-family: sans-serif;
+	position: relative;
+	top: 25px;
+	left: 100px;
+	font-size: 40px;
+}
+#web1div {
+	position: relative;
+	top: -55px;
+	left: 800px;
+	width: 120px; 
+	height: 50px;
+	background-color: #0070FF;
+	margin: 10px;
+}
+#web1 {
+	margin: 10px;
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+	position: relative;
+	top: 10px;
+}
+#web1div:hover {
+	position: relative;
+	top: -55px;
+	left: 800px;
+	width: 120px; 
+	height: 50px;
+	background-color: #8ABDFF;
+	margin: 10px;
+}
+#web2div {
+	position: relative;
+	top: -115px;
+	left: 950px;
+	width: 120px; 
+	height: 50px;
+	background-color: #0070FF;
+	margin: 10px;
+}
+#web2 {
+	margin: 10px;
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+	position: relative;
+	top: 10px;
+}
+#web2div:hover {
+	position: relative;
+	top: -115px;
+	left: 950px;
+	width: 120px; 
+	height: 50px;
+	background-color: #8ABDFF;
+	margin: 10px;
+}
+#web3div {
+	position: relative;
+	top: -175px;
+	left: 1100px;
+	width: 120px; 
+	height: 50px;
+	background-color: #0070FF;
+	margin: 10px;
+}
+#web3 {
+	margin: 10px;
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+	position: relative;
+	top: 10px;
+}
+#web3div:hover {
+	position: relative;
+	top: -175px;
+	left: 1100px;
+	width: 120px; 
+	height: 50px;
+	background-color: #8ABDFF;
+	margin: 10px;
+}
+#advocacy {
+	font-family: sans-serif;
+	color: black;
+	background-color: lightblue;
+	border-color: black;
+	border-style: solid;
+	width: 90%;
+	height: 400px;
+	margin-left: 5%;
+}
+#advocacy2 {
+	font-family: sans-serif;
+	color: black;
+	background-color: lightblue;
+	border-color: black;
+	border-style: solid;
+	width: 90%;
+	height: 330px;
+	margin-left: 5%;
+}
+#help {
+	font-family: sans-serif;
+	color: black;
+	background-color: lightblue;
+	border-color: black;
+	border-style: solid;
+	width: 90%;
+	height: 300px;
+	margin-left: 5%;
+}
+.center {
+	text-align: center;
+}
+.side {
+	width: 800px;
+	position: relative;
+	left: 320px;
+}
+#history {
+	font-family: sans-serif;
+	color: black;
+	background-color: lightblue;
+	border-color: black;
+	border-style: solid;
+	width: 90%;
+	height: 360px;
+	margin-left: 5%;
+}
+#list {
+	position: relative;
+	left: 400px;
+}
+#aboutus {
+	font-family: sans-serif;
+	color: black;
+	background-color: lightblue;
+	border-color: black;
+	border-style: solid;
+	width: 90%;
+	height: 320px;
+	margin-left: 5%;
+}
+#logo {
+	position: relative;
+	top: -280px;
+	left: 50px;
+	background-color: white;
+	height: 80px;
+	border-style: solid;
+	border-radius: 10px;
+}
+#ut {
+	left: 170px;
+}

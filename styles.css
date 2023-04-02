@@ -1,0 +1,109 @@
+body {
+    height: 100%;
+    overflow-y: hidden;
+}
+#big {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 130vh;
+    background-image: linear-gradient(to bottom right, #2193b0, #6dd5ed);
+}
+#move {
+    position: relative;
+    left: 70px;
+    top: 50px;
+    font-family: Helvetica;
+    color: white;
+    width: 50vw;
+}
+#title {
+    font-size: 60px;
+    width: 500px;
+}
+#logindiv {
+    background-image: linear-gradient(to bottom right, #4ca1af, #c4e0e5);
+    font-family: Helvetica;
+    color: white;
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100vh;
+    width: 78vh;
+}
+#inslogin {
+    height: 70vh;
+    width: 50vh;
+    position: relative;
+    left: 100px;
+    top: 80px;
+    text-align: center;
+}
+#loginsign {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+#usernamesign {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+#userdiv {
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+#user {
+    font-family: Helvetica;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 200px;
+}
+#passsign {
+    position: relative;
+    top: 50px;
+    text-align: center;
+}
+#passdiv {
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+#pass {
+    font-family: Helvetica;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 200px 
+}
+#texta {
+    position: relative;
+    left: -20px;
+}
+#check {
+    position: relative;
+    top: -35px;
+    left: 60px;
+}
+#loginbutton {
+    width: 30vh;
+    height: 5vh;
+    position: relative;
+    cursor: pointer;
+}
+#alerth3 {
+    color: red;
+    position: relative;
+    left: 20px;
+    display: none;
+    position: relative;
+    left: -5px;
+}
+#forgotpass {
+    cursor: pointer;
+}
